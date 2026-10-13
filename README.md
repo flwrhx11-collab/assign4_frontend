@@ -1,7 +1,7 @@
 # Assignment #4: Forms and Validation
 
-**Student:** Full Name  
-**Group:** Group Name  
+**Student:** Sultanov Abilkaiyr  
+**Group:** SE-2529  
 
 ## Overview
 This project demonstrates the creation of web forms using HTML5 and Bootstrap 5, featuring built-in HTML5 validation and Bootstrap custom feedback styling.
